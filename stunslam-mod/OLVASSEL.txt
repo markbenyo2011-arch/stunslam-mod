@@ -1,0 +1,12 @@
+STUNSLAM MOD - Minecraft 1.21.11, Fabric
+
+1. Csinalj egy ingyenes fiokot a github.com-on.
+2. Uj repo (New repository), nev: stunslam-mod, Public vagy Private mindegy.
+3. A repo oldalan: "uploading an existing file" -> huzd be a zip KICSOMAGOLT
+   tartalmat (a .github mappat is!). Commit changes.
+4. Actions ful -> a "build" futas ~3-5 perc alatt lezajlik.
+5. Kattints a futasra, lent az Artifacts reszben: "stunslam-mod" -> letoltod,
+   kicsomagolod, benne van a stunslam-1.0.0.jar.
+6. A jar-t told a .minecraft/mods mappaba (Fabric Loader + Fabric API kell mellé).
+
+Jatekban: /stunslam on   /stunslam off   /stunslam
